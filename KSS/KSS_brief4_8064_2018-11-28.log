@@ -1,0 +1,10 @@
+Scenario - KSS_brief1
+Logfile written - 11/28/2018 09:10:28
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+1	87	Response	3	14819	142	0
+1	243	Response	3	40790	94	0
+1	346	Response	3	57910	35	0
+1	474	Response	3	79250	26	0
+1	527	Response	2	88110	46	0
