@@ -1,5 +1,5 @@
 # Preprocessing of respiration data o receive graphs and write datafiles to tables
-# This is ONLY for the pilot testing on Gustav 2019-02-27!
+# This is ONLY for the pilot testing on date 2019-02-27!
 
 rm(list=ls())
 
