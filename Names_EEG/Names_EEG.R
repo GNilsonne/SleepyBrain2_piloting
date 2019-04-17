@@ -1,7 +1,7 @@
 # Script to rename files to the proper BIDS format
 rm(list=ls())
 EEG_raw <- list.files(pattern = ".acq")
-EEG_f <- list.files(pattern = "filtered")
+EEG_f <- list.files(pattern = ".edf")
 diary <- read.csv2("Sleepy_brain_diary_checked.csv")
 diary <- diary[c("id", "session", "day", "month", "year")]
 diary$date <- paste(diary$year, diary$month, diary$day, sep ="/")
